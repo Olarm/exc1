@@ -1,0 +1,6 @@
+# Backup files for emacs
+**/*~
+
+.DS_Store
+Part4/c/foo
+Part4/c/foo.o
